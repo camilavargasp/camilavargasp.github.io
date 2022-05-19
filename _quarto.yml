@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "camilavargasp.github.io"
+  title: "Camila Vargas Poulsen"
   navbar:
     background: primary
     left:

@@ -1,5 +1,5 @@
 ---
-title: "camilavargasp.github.io"
+title: "Camila Vargas Poulsen"
 ---
 
 This is a Quarto website.
