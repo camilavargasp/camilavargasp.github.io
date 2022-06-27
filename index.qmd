@@ -1,12 +1,21 @@
 ---
 title: "Camila Vargas Poulsen"
+about:
+  template: trestles
+  image: pics/cvargas_2022.png
+  image-width: 10cm
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: camilavargasp
+      href: https://github.com/camilavargasp
+    - icon: twitter
+      text: CamVargasP
+      href: https://twitter.com/CamVargasP
+    - icon: book
+      text: Resume
+      href: files/vargas_camila_resume.pdf
+
 from: markdown+emoji
 ---
 
-<br>
-
-Hello world! Today I added a photo. This is me.
-
-![](pics/Camila4.jpg)
-
-:construction: **Slow construction process, more soon** :construction:
