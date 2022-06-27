@@ -9,13 +9,20 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+        
+  page-footer:
+    center: "Copyright 2022, Camila Vargas Poulsen"
+    background: secondary
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cerulean
+      dark: solar
     css: styles.css
     toc: true
+    link-external-newwindow: true
+    link-external-icon: false
 
 editor: visual
 

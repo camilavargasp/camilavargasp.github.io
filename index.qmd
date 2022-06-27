@@ -7,15 +7,52 @@ about:
   image-shape: rectangle
   links:
     - icon: github
-      text: camilavargasp
+      text: GitHub
       href: https://github.com/camilavargasp
     - icon: twitter
-      text: CamVargasP
+      text: Twitter
       href: https://twitter.com/CamVargasP
-    - icon: book
-      text: Resume
-      href: files/vargas_camila_resume.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/camila-vargas-poulsen-1054811aa/
 
 from: markdown+emoji
 ---
 
+*If once you have slept on an island*
+
+*You'll never be quite the same;*
+
+*You may look as you looked the day before*
+
+*And go by the same old name,*
+
+*You may bustle about in street and shop*
+
+*You may sit at home and sew,*
+
+*But you'll see blue water and wheeling gulls*
+
+*Wherever your feet may go.*
+
+*You may chat with the neighbors of this and that*
+
+*And close to your fire keep,*
+
+*But you'll hear ship whistle and lighthouse bell*
+
+*And tides beat through your sleep.*
+
+*Oh! you won't know why and you can't say how*
+
+*Such a change upon you came,*
+
+*But once you have slept on an island,*
+
+*You'll never be quite the same*
+
+by Rachel Lyman
+
+A poem inspired on my last camping trip to Catalina.
+
+:sunflower: More soon! :sunflower:
