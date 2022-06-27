@@ -19,6 +19,8 @@ about:
 from: markdown+emoji
 ---
 
+### If Once You Have Slept On An Island
+
 *If once you have slept on an island*
 
 *You'll never be quite the same;*
@@ -55,4 +57,4 @@ by Rachel Lyman
 
 A poem inspired on my last camping trip to Catalina.
 
-:sunflower: More soon! :sunflower:
+:bug: Slowly learning Quarto! Thank you for joining the ride. More soon :butterfly:
