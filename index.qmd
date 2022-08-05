@@ -2,7 +2,7 @@
 title: "Camila Vargas Poulsen"
 about:
   template: trestles
-  image: pics/cvargas_2022.png
+  image: _pics/cvargas_2022.png
   image-width: 10cm
   image-shape: rectangle
   links:
