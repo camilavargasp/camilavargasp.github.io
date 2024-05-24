@@ -1,30 +1,50 @@
 project:
   type: website
+  output-dir: docs
 
 execute:
   freeze: auto
 
 website:
   title: "Camila Vargas Poulsen"
+  # favicon: images/hex_logos/dndR_hex.png
+  # repo-url: https://github.com/njlyon0/njlyon0.github.io
+  # repo-actions: [issue]
   navbar:
     background: primary
-    left:
+    right:
       - href: index.qmd
-        text: Home
-        
-  page-footer:
-    center: "Copyright 2022, Camila Vargas Poulsen"
+        text: home
+      - href: about.qmd
+        text: about
+      - href: teaching.qmd
+        text: teaching
+      - text: projects
+        menu: 
+          - href: portfolio.qmd
+            text: portfolio
+          - href: reflexions.qmd
+            text: reflexions
+          # - href: code-resources.qmd
+          # - href: just-because.qmd
+      - icon: github
+        href: https://github.com/camilavargasp/camilavargasp.github.io
+        target: _blank
+  
+  page-footer: 
     background: secondary
-
+    left: © Copyright 2024, Camila Vargas Poulsen
+    right: Built learning from others {{< fa heart title="a heart" >}} using [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/camilavargasp/camilavargasp.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+        
 format:
   html:
+    # page-layout: full
+    sidebar: false
     theme: 
-      light: cerulean
-      dark: solar
-    css: styles.css
-    toc: true
+      - styles.scss
+    mainfont: Cutive Mono
+    toc: false
     link-external-newwindow: true
     link-external-icon: false
 
-editor: visual
 

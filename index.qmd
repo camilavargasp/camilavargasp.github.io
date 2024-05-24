@@ -1,58 +1,28 @@
 ---
-title: "Camila Vargas Poulsen"
 about:
   template: trestles
   image: _pics/cvargas_2022.png
-  image-width: 10cm
-  image-shape: rectangle
+  image-width: 16em
+  image-shape: round
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/camilavargasp
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/CamVargasP
+    #   href: https://github.com/camilavargasp
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/CamVargasP
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/camila-vargas-poulsen-1054811aa/
-
-from: markdown+emoji
+    - icon: envelope
+      text: Email
+      href: mailto:vargas-poulsen@nceas.ucsb.edu
 ---
 
-:bug: Slowly learning Quarto! Thank you for joining the ride. More soon :butterfly:
 
-In the meantime, a poem by Rachel Lyman. Inspired to share after my last camping trip on Catalina Island.
+## Hola!
 
-### If Once You Have Slept On An Island
+This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text. This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text.
 
-*If once you have slept on an island*
 
-*You'll never be quite the same;*
 
-*You may look as you looked the day before*
-
-*And go by the same old name,*
-
-*You may bustle about in street and shop*
-
-*You may sit at home and sew,*
-
-*But you'll see blue water and wheeling gulls*
-
-*Wherever your feet may go.*
-
-*You may chat with the neighbors of this and that*
-
-*And close to your fire keep,*
-
-*But you'll hear ship whistle and lighthouse bell*
-
-*And tides beat through your sleep.*
-
-*Oh! you won't know why and you can't say how*
-
-*Such a change upon you came,*
-
-*But once you have slept on an island,*
-
-*You'll never be quite the same*

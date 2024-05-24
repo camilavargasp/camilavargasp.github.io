@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Montserrat:wght@100;400&display=swap');
+
+// fonts
+$cutive: 'Cutive Mono', monospace; 
+$montserrat: 'Montserrat', sans-serif; 
+
+// Colors
+$light-green: #D1D9CE;
+$medium-green: #98A08D;
+$dark-green: #757B6D;
+$cream: #F7F1F0;
+$light-lavander: #F7F3F5; //#F4F2F3
+$purple: #9158A2; 
+$light-brown: #C3A6A0;
+$bright-brown:#A15C38;
+$gray-blue: #94A7AE;
+$gray-green: #64766A;
+$dark-gray: #5A5856;
+$medium-gray: #64605f;
+$light-black: #262220;
+
+// Base document colors
+$navbar-bg: $cream;
+$navbar-fg: $light-black; 
+$navbar-hl: $purple; 
+$body-bg: $cream;
+$body-color: $light-black;
+$footer-bg: $bright-brown; 
+$link-color: $purple;
+
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $montserrat; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $light-black;
+}
