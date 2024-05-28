@@ -32,6 +32,14 @@ $footer-bg: $bright-brown;
 $link-color: $purple;
 
 
+// Inline code
+$code-bg: $light-lavander;
+$code-color: $bright-brown; 
+
+// Code blocks
+$code-block-bg: $light-lavander;
+
+
 /* ELEMENT SELECTORS */
 
 h1, h2, h3, h4, h5, h6 {
@@ -40,3 +48,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   color: $light-black;
 }
+
+
+/* ID selectors */
+
+// responsive-ish iframes (width adjusts to viewport size; couldn't figure out how to expand viewport height, so set to this size for now)
+#map-size {
+  width: 100%;
+  height: 350px;
+}
+

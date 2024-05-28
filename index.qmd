@@ -2,7 +2,7 @@
 about:
   template: trestles
   image: _pics/cvargas_2022.png
-  image-width: 16em
+  image-width: 18em
   image-shape: round
   links:
     - icon: github
@@ -20,9 +20,12 @@ about:
 ---
 
 
-## Hola!
+## Welcome!
+I’m a data scientist interested in using data efficiently and collaboratively to understand patterns and answer prominent questions. 
 
-This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text. This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text This is an example text.
+I’m passionate about using data science tools to streamline data processes, from raw data to meaningful visualizations that provide actionable insights. I advocate for open and kinder science, reproducible workflows, and fostering inclusive communities for collective growth.
+
+
 
 
 
