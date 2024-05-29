@@ -24,7 +24,7 @@ website:
           - href: portfolio.qmd
             text: data science
           - href: reflections.qmd
-            text: reflexions
+            text: reflections
           # - href: code-resources.qmd
           # - href: just-because.qmd
       - icon: github
