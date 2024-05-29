@@ -23,7 +23,7 @@ website:
             text: teaching
           - href: portfolio.qmd
             text: data science
-          - href: reflexions.qmd
+          - href: reflections.qmd
             text: reflexions
           # - href: code-resources.qmd
           # - href: just-because.qmd

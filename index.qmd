@@ -20,10 +20,10 @@ about:
 ---
 
 
-## Welcome!
-I’m a data scientist interested in using data efficiently and collaboratively to understand patterns and answer prominent questions. 
+## Hello!
 
-I’m passionate about using data science tools to streamline data processes, from raw data to meaningful visualizations that provide actionable insights. I advocate for open and kinder science, reproducible workflows, and fostering inclusive communities for collective growth.
+
+Thank you for stopping by! My name is Camila and I’m a data scientist passionate about using data science tools to streamline data processes, from raw data to meaningful visualizations that provide actionable insights. I advocate for open and kinder science, reproducible workflows, and fostering inclusive communities for collective growth.
 
 
 
