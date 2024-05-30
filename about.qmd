@@ -4,16 +4,55 @@ subtitle: "A little bit more about my current role and past experiences"
 toc: true
 ---
 
-### What I'm up to
+<br>
 
-Camila is part of the Learning Hub team. She helps manage, maintain, and develop NCEAS’s growing data science training portfolio. She coordinates and conducts training sessions and provides data support to working groups.
+### Data Training Program Manager
+
+<br>
 
 
+I'm currently the Data Training Program Manager at the [National Center for Ecological Analysis and Synthesis (NCEAS) Learning Hub](https://www.nceas.ucsb.edu/learning-hub). My role is to manage, maintain, and develop NCEAS’s growing data science training portfolio, as well as coordinating and conducting training sessions.
 
-### Experience
+My primary goal is to empower researchers and environmental professionals to incorporate data science tools when working with data, aiming to help them build reproducible, collaborative, and efficient data workflows.
 
-Previously, Camila has worked as a data manager for the Palmyra Atoll Data Library (PADL) and as a research assistant at the Marine Science Institute, UCSB, curating historical California fisheries data and looking into models to quantify abandoned or lost fishing gear in the ocean. She has also researched social-ecological systems, working with small-scale fisher communities in Chile to understand how collective action can improve coastal resource management.
+I've taught workshops on introduction to R and RStudio, literate analysis with Quarto, Git and GitHub, cleaning and wrangling data, data visualization with `ggplot2`, performing text analysis in R, working with spatial data in R, introduction to Shiny, Quarto dashboards, and accessing census data with the `tidycensus` R package.
 
+<br>
+
+### Data Science Experience
+
+In the past, I've worked in a wide range of research projects. Below I highlight relevant accomplishment.
+
+<br>
+
+##### Data Manager for the [Palmyra Atoll Data Library (PADL)](https://github.com/padl-project)
+
+I helped mobilized data from "researchers' computers" to an open data repository, the [Environmental Data Initiative (EDI)](https://edirepository.org/). To successfully achieve this I had to do quality check to data sets and transformed them to comply with [FAIR](https://www.nature.com/articles/sdata201618) to the extent possible and I systematized the process for documenting and producing detailed metadata.
+
+<br>
+
+##### Research Data Scientist
+
+- Project: North Coast Urchin Trapping
+
+Analyzed and visualized urchin monitoring data to evaluate effective urchin removal methods.
+
+- Project: West Coast Synthesis of Climate Impacts on Marine Fisheries
+
+Systematized and digitized California’s historical fisheries landings data at a port level and built a dataset documenting the spatial and temporal extent of fishery closures on the West Coast.
+
+
+- Project: Synthetic Estimate of Lost Fishing Gear
+
+Managed data describing global catch, effort, discards, and fishing gear used and analyzed and visualized data with R and `ggplot2` to inform a model estimating derelict fishing gear.
+
+<br>
+
+##### Ocean Health Index (OHI) Data Science Fellow
+
+Collaborated with the OHI team to updated and format data sets necessary to calculate the 2018 OHI global assessment. Through my internship I had to revised and improve 9+ R scripts with OHI methods to ensure the necessary functions and data worked properly.
+
+<br>
 
 ### Education
 
