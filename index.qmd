@@ -23,7 +23,7 @@ about:
 ## Hola!
 
 
-Thank you for stopping by! My name is Camila and I'm passionate about using data science tools to streamline data management and facilitate collaboration. From accessing data to transforming raw data to create meaningful visualizations that communicating actionable insights.
+Thank you for stopping by! My name is Camila and I'm passionate about using data science tools to streamline data management and facilitate collaboration. From accessing data to transforming raw data into meaningful visualizations that communicate actionable insights.
 
 
 I advocate for open and inclusive science, reproducible workflows, and fostering supportive (data science) communities for collective growth.
