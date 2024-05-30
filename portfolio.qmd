@@ -1,4 +1,9 @@
 ---
-title: "My Work"
+title: "Portfolio"
+subtitle: "here I'll share deliverables and achievements of projects I've worked in the past"
 ---
- Hello hello!
+ 
+ <br>
+ <br>
+ 
+ <center>"page under construction"</center>
