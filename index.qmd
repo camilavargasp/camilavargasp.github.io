@@ -7,7 +7,7 @@ about:
   links:
     - icon: github
       text: GitHub
-    #   href: https://github.com/camilavargasp
+      href: https://github.com/camilavargasp
     # - icon: twitter
     #   text: Twitter
     #   href: https://twitter.com/CamVargasP
@@ -20,12 +20,12 @@ about:
 ---
 
 
-## Hello!
+## Hola!
 
 
-Thank you for stopping by! My name is Camila and I’m a data scientist passionate about using data science tools to streamline data processes and facilitated collaboration. This involves transforming raw data into meaningful visualizations that communicate actionable insights.
+Thank you for stopping by! My name is Camila and I’m a data scientist passionate about using data science tools to streamline data management and facilitated collaboration. This involves transforming raw data into meaningful visualizations that communicate actionable insights.
 
-I advocate for open and inclusive science, reproducible workflows, and fostering kind (data science) communities for collective growth.
+I advocate for open and inclusive science, reproducible workflows, and fostering supportive (data science) communities for collective growth.
 
 
 
