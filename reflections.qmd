@@ -89,6 +89,20 @@ Does this come from a Bee Swarm?? Probably. More data viz and more English for m
 Ps. There is looots of information about plots on the R charts site. Here the section for my beloved [`ggplot2`](https://r-charts.com/ggplot2/). Ad information about [colors in R](https://r-charts.com/colors/) {{< fa heart title="a heart" >}}.
 
 
+### Tip on font size
+
+Another email from [Stephanie](https://stephanieevergreen.com/for-the-love-of-font-size/). And I think to my self, why not document this information on my _Reflections journal_. What I like about this exercise of writing about what I read is that it will help me remember. So here is the deal on font sizes and graphs:
+
+- The graphs final destination (presentation, report, dashboard, etc.) will determine the font size choice. 
+- You may have two different versions of your chart, one for a close up audience and one for a large room.
+
+Be mindful of the setting you are going to present you chart. "The smallest font size you can get away with in **large room reading circumstances is 20 point**."
+
+Thank you Stephanie!
+
+
+<br>
+
 
 
 
