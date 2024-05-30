@@ -28,6 +28,8 @@ Thank you for stopping by! My name is Camila and I'm passionate about using data
 
 I advocate for open and inclusive science, reproducible workflows, and fostering supportive (data science) communities for collective growth.
 
+<!--I am a co-organizer of R-Ladies Santa Barbara, a local data science group which works to promote gender diversity in the R community.-->
+
 
 
 
