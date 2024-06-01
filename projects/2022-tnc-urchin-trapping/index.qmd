@@ -1,0 +1,15 @@
+---
+title: "Urchin Trapping Project"
+subtitle: "data insights"
+date: 2022-08-01
+---
+<br>
+<br>
+
+As part of my responsibilities for this project, I developed a series of charts and graphs to provide insights about the performance of different urchin trapping methods and urchin abundance in the area of study.
+
+<br>
+
+<center>
+[Deck with Plots](urchin-trapping-final-figures-2023.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Open"}
+</center>

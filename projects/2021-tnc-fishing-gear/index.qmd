@@ -1,0 +1,25 @@
+---
+title: "Estimating Lost Fishing Gear"
+subtitle: "visulizing fisheries data and synthesis model inputs"
+date: 2020-12-01
+---
+
+<br>
+
+This project involved two parts. First we had to explore, organize and analyze data on fisheries landings and discards estimates by country and by gear type. As a result of this part of the project I created several visualizations.
+
+
+
+<center>
+[Deck with Plots](fishing-gear-plots-examples-2021.pdf){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Open"}
+</center>
+
+<br>
+
+The second part of the project was to develop a model to estimate how much fishing gear goes into the ocean based on how much fish is being captured. To present part of the results of this model, I developed an interactive web application was using R Shiny. The goal was to show the data going into the model to calculate derelict fishing gear based on the relationship between catch and effort.
+
+
+<center>
+[Link to App](https://camilavargaspoulsen.shinyapps.io/catch-effort-gear-dashboard/
+){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Open"}
+</center>

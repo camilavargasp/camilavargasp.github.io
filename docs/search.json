@@ -4,7 +4,7 @@
     "href": "portfolio.html",
     "title": "Portfolio",
     "section": "",
-    "text": "“page under construction”"
+    "text": "Estimating Lost Fishing Gear\n\n\nvisulizing fisheries data and synthesis model inputs\n\n\n\n\n\n\n\n\nDec 1, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nUrchin Trapping Project\n\n\ndata insights\n\n\n\n\n\n\n\n\nAug 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -14,11 +14,25 @@
     "text": "Data Training Program Manager\n\nI’m currently the Data Training Program Manager at the National Center for Ecological Analysis and Synthesis (NCEAS) Learning Hub. My role is to manage, maintain, and develop NCEAS’s growing data science training portfolio, as well as coordinating and conducting training sessions.\nMy primary goal is to empower researchers and environmental professionals to incorporate data science tools when working with data, aiming to help them build reproducible, collaborative, and efficient data workflows.\nI’ve taught workshops on introduction to R and RStudio, literate analysis with Quarto, Git and GitHub, cleaning and wrangling data, data visualization with ggplot2, performing text analysis in R, working with spatial data in R, introduction to Shiny, Quarto dashboards, and accessing census data with the tidycensus R package.\n\n\n\nData Science Experience\nIn the past, I’ve worked in a wide range of research projects. Below I highlight relevant accomplishment.\n\n\nData Manager for the Palmyra Atoll Data Library (PADL)\nI helped mobilized data from “researchers’ computers” to an open data repository, the Environmental Data Initiative (EDI). To successfully achieve this I had to do quality check to data sets and transformed them to comply with FAIR to the extent possible and I systematized the process for documenting and producing detailed metadata.\n\n\n\nResearch Data Scientist\n\nProject: North Coast Urchin Trapping\n\nAnalyzed and visualized urchin monitoring data to evaluate effective urchin removal methods.\n\nProject: West Coast Synthesis of Climate Impacts on Marine Fisheries\n\nSystematized and digitized California’s historical fisheries landings data at a port level and built a dataset documenting the spatial and temporal extent of fishery closures on the West Coast.\n\nProject: Synthetic Estimate of Lost Fishing Gear\n\nManaged data describing global catch, effort, discards, and fishing gear used and analyzed and visualized data with R and ggplot2 to inform a model estimating derelict fishing gear.\n\n\n\nOcean Health Index (OHI) Data Science Fellow\nCollaborated with the OHI team to updated and format data sets necessary to calculate the 2018 OHI global assessment. Through my internship I had to revised and improve 9+ R scripts with OHI methods to ensure the necessary functions and data worked properly.\n\n\n\n\nEducation\n\nMS Environmental Science and Management, Bren School of Environmental Science & Management, University of California, Santa Barbara (UCSB)\nBS in Biology with a focus in Ecology and Natural Resources, Pontificia Universidad Católica de Chile (PUC), Santiago, Chile"
   },
   {
+    "objectID": "projects/2022-tnc-urchin-trapping/index.html",
+    "href": "projects/2022-tnc-urchin-trapping/index.html",
+    "title": "Urchin Trapping Project",
+    "section": "",
+    "text": "As part of my responsibilities for this project, I developed a series of charts and graphs to provide insights about the performance of different urchin trapping methods and urchin abundance in the area of study.\n\n\nDeck with Plots"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
     "text": "“page under construction”"
+  },
+  {
+    "objectID": "projects/2021-tnc-fishing-gear/index.html",
+    "href": "projects/2021-tnc-fishing-gear/index.html",
+    "title": "Estimating Lost Fishing Gear",
+    "section": "",
+    "text": "This project involved two parts. First we had to explore, organize and analyze data on fisheries landings and discards estimates by country and by gear type. As a result of this part of the project I created several visualizations.\n\nDeck with Plots\n\n\nThe second part of the project was to develop a model to estimate how much fishing gear goes into the ocean based on how much fish is being captured. To present part of the results of this model, I developed an interactive web application was using R Shiny. The goal was to show the data going into the model to calculate derelict fishing gear based on the relationship between catch and effort.\n\nLink to App"
   },
   {
     "objectID": "index.html",

@@ -1,9 +1,19 @@
 ---
 title: "Portfolio"
-subtitle: "here I'll share deliverables and achievements of projects I've worked in the past"
+subtitle: "presenting some deliverables and achievements of projects I've worked in the past"
+listing:
+  contents: projects
+  feed: true
+  # sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 175
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
  
- <br>
- <br>
  
- <center>"page under construction"</center>
