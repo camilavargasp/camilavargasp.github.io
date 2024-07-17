@@ -23,12 +23,14 @@ about:
 ## Hola!
 
 
-Thank you for stopping by! My name is Camila and I'm passionate about using data science tools to streamline data management and facilitate collaboration. From accessing data to transforming raw data into meaningful visualizations that communicate actionable insights.
+Thank you for stopping by! My name is Camila, and I'm passionate about using data science tools to streamline data management and facilitate collaboration, from accessing data to transforming raw data into meaningful visualizations that communicate actionable insights.
 
 
-I advocate for open and inclusive science, reproducible workflows, and fostering supportive (data science) communities for collective growth.
+I advocate for open and inclusive science, reproducible workflows, and fostering supportive communities for collective growth.
 
-<!--I am a co-organizer of R-Ladies Santa Barbara, a local data science group which works to promote gender diversity in the R community.-->
+<br>
+
+I am a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/es-ES/rladies-santa-barbara/) and [EcoDataScience](https://ecodatascience.github.io/). Two local groups that promote diversity and inclusion in the R community and data science practices.
 
 
 
