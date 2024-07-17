@@ -13,7 +13,7 @@ callout-icon: false
 ::: {.callout-caution appearance="simple"}
 **A note to readers (or to self)**
 
-As a way of documenting my experience when learning new tools and also as a way to keep my self accountable I decided to write these _reflections_. Here I gather resources I've encounter that worth sharing or at least I think it is worth keeping a record.
+I decided to write these reflections as a way of documenting my experience learning new tools and also to hold myself accountable. Here, I gather resources I've encountered that are worth sharing, or at least I think they are worth keeping a record of.
 
 :::
 
@@ -21,35 +21,35 @@ As a way of documenting my experience when learning new tools and also as a way 
 
 ### 3-2-1 approach to better charts
 
-<!--Committed to make progress in something in my life I'm starting this journal.
+<!--Committed to making progress in something in my life, I'm starting this journal.
 
-I'll get back to the long story on how I got here. Today I'm feeling with the urge of start. Get something in motion. I'm still not sure where this is going but following inspiration, need of a change, and really wanting to accomplish something, I decided to write.
+I'll get back to the long story of how I got here. Today, I'm feeling the urge to start. Get something in motion. I'm still not sure where this is going, but following inspiration, needing a change, and really wanting to accomplish something, I decided to write.
 
 
 
-The short story. I'm trying to figure out how to grow some skill a skill that can lead me into new opportunities. It was the astral energy of the past new moon in Taurus that impulse me to manifest, decrete this journey. Full moon is almost here do shining light into this project.-->
+The short story. I'm trying to figure out how to grow some skills, skills that can lead me to new opportunities. It was the cosmic energy of the past new moon in Taurus that impulse me to manifest and decrete this journey. The full moon is almost here, shining light into this project. -->
 
-Four days ago I listen to a presentation by [Alberto Cairo](https://youtu.be/Jwn8-ezHkWU). It was one of those things that I had put on my calendar weeks ago with a very generic title. But with a side note saying "Attend this meeting". It was like my past self new what my future self needed to listen. The presentation was beyond inspiring. So simple, so natural, so complex but so honest that it moved me in a way that is hard to explain.
+Four days ago, I listened to a presentation by [Alberto Cairo](https://youtu.be/Jwn8-ezHkWU). It was one of those things I had put on my calendar weeks ago with a generic title but with a side note saying, "Attend this meeting." It was like my past self knew what my future self needed to listen to. The presentation was beyond inspiring. It was so simple, so natural, so complex, but so honest that it moved me in a way that is hard to explain.
 
-So here I am. Committed to improve my skills for visualizing data.
+So here I am. Committed to improving my skills in visualizing data.
 
-Right after the presentation, I subscribed to a couple of news letters as a starting point. I'm still trying to figure out what this commitment will look like, What does being committed mean. In the meantime I want to accomplish two things: 
+Right after the presentation, I subscribed to a couple of newsletters as a starting point. I'm still trying to figure out what this commitment will look like and what being committed means. In the meantime, I want to accomplish two things: 
 
 1. Allocate time in my week to this topic 
 2. Document the process.
 
-Monday morning routine. Check emails, clear inbox. And there it was, the email that trigger this post. At 6 am PT this morning [Stephanie Evergreen](https://stephanieevergreen.com/) newsletter was sent out. It is 9 am and I'll dice into it as my first (baby) step into my commitment.
+Monday morning routine. Check emails and clear inbox. And there it was, the email that triggered this post. At 6 am PT this morning, [Stephanie Evergreen](https://stephanieevergreen.com/) newsletter was sent out. It is 9 am, and I'll dice into it as my first (baby) step into my commitment.
 
-The news letter took me to [Stephanie's YouTube Channel](https://www.youtube.com/channel/UC1LjQFNHP3GyVnQ5_WCjcCQ). Why Stephanie? I'm not sure, it was the first thing that pop in my inbox so I want to explore more.
+The newsletter took me to [Stephanie's YouTube Channel](https://www.youtube.com/channel/UC1LjQFNHP3GyVnQ5_WCjcCQ). Why Stephanie? I'm not sure. It was the first thing that popped into my inbox, so I want to explore more.
 
-I watch a 5 min video titled "3 2 1 Approach to Better Charts". Take always: 
+I watched a 5-minute video titled "3 2 1 Approach to Better Charts". Take always: 
 
 
-- You have 3 seconds to capture your audience attention. You plot should ONLY focus on what it is important. Eg: the difference of two products.
+- You have 3 seconds to capture your audience's attention. Your plot should ONLY focus on what is important. E.g., the difference between two products.
 
--   Chart have 2 components the Title and the Data. Use the title to guide the data insight you are trying to show. Data DOES NOT speak for it self, so use words effectively!
+-   Chart have 2 components the Title and the Data. Use the title to guide the data insight you are trying to show. Data DOES NOT speak for itself, so use words effectively!
 
--   There is always 1 best way to plot your data. The type of plot matters. Each type of chart has different objectives. Examples presented on the video: Two line graph are good for showing trends, waterfall chart is helpful to show change, dumbbell charts present differences, scatterplots are great for showing relationships.
+-   There is always 1 best way to plot your data. **The type of plot matters**. Each type of chart has different objectives. Examples presented on the video: Two line graph are good for showing trends, waterfall chart is helpful to show change, dumbbell charts present differences, scatterplots are great for showing relationships.
 
 <br>
 
@@ -66,20 +66,20 @@ knitr::include_graphics("_pics/evergreen_321approach.png")
 <br>
 
 
-Stephanie offers a program called [The Data Visualization Academy](https://stephanieevergreen.com/academy/). An online platform with videos to cruise at your own pace and learn all data vis things. I'm considering on paying (investing) for a course as a way of solidifying my commitment to learn this skill. But still unsure if that if that is the route I want to fo or not and what course I'd pay for. The Academy look very rich in content, so might consider signing up. We'll see.
+Stephanie offers a program called [The Data Visualization Academy](https://stephanieevergreen.com/academy/). An online platform with videos to cruise at your own pace and learn all data vis things. I'm considering paying (investing) for a course as a way of solidifying my commitment to learning this skill. But I'm still unsure if that is the route I want to go or not and what course I'd pay for. The Academy look very rich in content, so might consider signing up. We'll see.
 
-With this I feel accomplished for today. More soon!
+With this, I feel accomplished for today. More soon!
 
 <br>
 
 
 ### Bespoke
 
-A year ago I was on the market for buying a fridge. In my search I found a model called the "bespoke". Not being an native spekers, somtimes, some things get lost in translation. The Bespoke fridge was colordul and the colors where customisable. Not within budget and not my style of fridge any ways. Months later, I'm watching [Cara Thompson's](https://www.cararthompson.com/services) talk on "Building a Dataviz Design System for a Medical Research Project" and bespoke should up again. Then I'm reading other data viz stuff and there it is "bespoke visualizations". Mmmm.. there is more to this word that just a fridge model. Bespoke as in data visualization, according to Google "the process of combining data into innovative visualizations to gain new insights". Sooo, my next logical question (finally): What does bespoke mean?
-"Specially made for a particular person, organization or purpose" (Cambridge Dictionary). Not only learning data visualization, but English! Bespoke: word of the day!
+A year ago, I was on the market for buying a fridge. In my search, I found a model called the "bespoke." Not being a native speaker, sometimes, some things get lost in translation. The Bespoke fridge was colorful and the colors were customizable. Not within budget and not my style of fridge anyway. Months later, I'm watching [Cara Thompson's](https://www.cararthompson.com/services) talk on "Building a Dataviz Design System for a Medical Research Project," and _bespoke_ showed up again. Then I'm reading other data viz stuff, and there it is: "bespoke visualizations." Mmmm.. there is more to this word than just a fridge model. Bespoke as in data visualization, according to Google "the process of combining data into innovative visualizations to gain new insights". Sooo, my next logical question (finally): What does bespoke mean?
+"Specially made for a particular person, organization or purpose" (Cambridge Dictionary). Not only learning data visualization but English! Bespoke: word of the day!
 
-More on bees. Beeswarm plots. Is this a coincidence, probably. Because I think in the English language Bespoke and Beeswarm are not related. But, as a none native speaker, my first inclination is to judge by the sound. Be Be, it all sound like Bee to me. Anyways, Beeswarm plots are a thing: "Bee swarm plots are similar to strip charts and are **designed to show the underlying distribution of the data** but unlike strip charts, the data is arranged in a way that **avoids overlapping**" ([R Charts](https://r-charts.com/distribution/beeswarm/))
-This is how a beeswarm plot looks like int he simplest of it's forms.
+More on bees. Beeswarm plots. Is this a coincidence? Probably. I think Bespoke and Beeswarm are not related in the English language. But, as a none native speaker, my first inclination is to judge by the sound. Be Be, it all sounds like Bee to me. Anyways, Beeswarm plots are a thing: "Bee swarm plots are similar to strip charts and are **designed to show the underlying distribution of the data** but unlike strip charts, the data is arranged in a way that **avoids overlapping**" ([R Charts](https://r-charts.com/distribution/beeswarm/))
+This is what a beeswarm plot looks like in the simplest of its forms.
 
 <br>
 
@@ -97,21 +97,21 @@ knitr::include_graphics("_pics/beeswarm_plot_rcharts.png")
 
 <br>
 
-Does this come from a Bee Swarm?? Probably. More data viz and more English for me. Note to self: Spanish translation of bee swarm is "enjambre de abejas"
+Does this come from a Bee Swarm?? Probably. More data viz and more English for me. Note to self: The Spanish translation of bee swarm is "enjambre de abejas"
 
-Ps. There is looots of information about plots on the R charts site. Here the section for my beloved [`ggplot2`](https://r-charts.com/ggplot2/). Ad information about [colors in R](https://r-charts.com/colors/) {{< fa heart title="a heart" >}}.
+Ps. There is lots of information about plots on the R charts site. Here is the section for my beloved [`ggplot2`](https://r-charts.com/ggplot2/). And information about [colors in R](https://r-charts.com/colors/) {{< fa heart title="a heart" >}}.
 
 
 <br>
 
 ### Tip on charts font size
 
-Another email from [Stephanie](https://stephanieevergreen.com/for-the-love-of-font-size/). And I think to my self, why not document this information on my _Reflections journal_. What I like about this exercise of writing about what I read is that it will help me remember. So here is the deal on font sizes and graphs:
+Another email from [Stephanie](https://stephanieevergreen.com/for-the-love-of-font-size/). And I think, why not document this information in my _Reflections journal_. What I like about this exercise of writing about what I read is that it will help me remember. So here is the deal on font sizes and graphs:
 
-- The graphs final destination (presentation, report, dashboard, etc.) will determine the font size choice. 
-- You may have two different versions of your chart, one for a close up audience and one for a large room.
+- The graph's final destination (presentation, report, dashboard, etc.) will determine the font size choice. 
+- You may have two versions of your chart, one for a close-up audience and one for a large room.
 
-Be mindful of the setting you are going to present you chart. "The smallest font size you can get away with in **large room reading circumstances is 20 point**."
+Be mindful of the setting in which you are going to present your chart. "The smallest font size you can get away with in **large room reading circumstances is 20 points**."
 
 Thank you Stephanie!
 
