@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-subtitle: "presenting some deliverables and achievements of projects I've worked in the past"
+subtitle: "presenting some deliverables and achievements of projects I've worked on in the past"
 listing:
   contents: projects
   feed: true
