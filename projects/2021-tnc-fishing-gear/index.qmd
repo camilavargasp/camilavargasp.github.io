@@ -1,6 +1,6 @@
 ---
 title: "Estimating Lost Fishing Gear"
-subtitle: "visulizing fisheries data and synthesis model inputs"
+subtitle: "visualizing fisheries data and synthesis model inputs"
 date: 2020-12-01
 ---
 
