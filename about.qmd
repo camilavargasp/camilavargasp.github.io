@@ -11,23 +11,23 @@ toc: true
 <br>
 
 
-I'm currently the Data Training Program Manager at the [National Center for Ecological Analysis and Synthesis (NCEAS) Learning Hub](https://www.nceas.ucsb.edu/learning-hub). My role is to manage, maintain, and develop NCEAS’s growing data science training portfolio, as well as coordinating and conducting training sessions.
+I'm currently the Data Training Program Manager at the [National Center for Ecological Analysis and Synthesis (NCEAS) Learning Hub](https://www.nceas.ucsb.edu/learning-hub). My role is to manage, maintain, and develop NCEAS’s growing data science training portfolio and coordinate and conduct training sessions.
 
 My primary goal is to empower researchers and environmental professionals to incorporate data science tools when working with data, aiming to help them build reproducible, collaborative, and efficient data workflows.
 
-I've taught workshops on introduction to R and RStudio, literate analysis with Quarto, Git and GitHub, cleaning and wrangling data, data visualization with `ggplot2`, performing text analysis in R, working with spatial data in R, introduction to Shiny, Quarto dashboards, and accessing census data with the `tidycensus` R package.
+I've taught workshops on introduction to R and RStudio, literate analysis with Quarto, Git, and GitHub, cleaning and wrangling data, data visualization with `ggplot2`, performing text analysis in R, working with spatial data in R, introduction to Shiny, Quarto dashboards, and accessing census data with the `tidycensus` R package.
 
 <br>
 
-### Data Science Experience
+### Data Science/Research Experience
 
-In the past, I've worked in a wide range of research projects. Below I highlight relevant accomplishment.
+I've worked on a wide range of research projects in the past. Below, I highlight relevant accomplishments.
 
 <br>
 
 ##### Data Manager for the [Palmyra Atoll Data Library (PADL)](https://github.com/padl-project)
 
-I helped mobilized data from "researchers' computers" to an open data repository, the [Environmental Data Initiative (EDI)](https://edirepository.org/). To successfully achieve this I had to do quality check to data sets and transformed them to comply with [FAIR](https://www.nature.com/articles/sdata201618) to the extent possible and I systematized the process for documenting and producing detailed metadata.
+I helped mobilize data from "researchers' computers" to an open data repository, the [Environmental Data Initiative (EDI)](https://edirepository.org/). To successfully achieve this, I had to do quality checks on data sets and transform them to comply with [FAIR](https://www.nature.com/articles/sdata201618) to the extent possible, and I systematized the process for documenting and producing detailed metadata.
 
 <br>
 
@@ -50,7 +50,7 @@ Managed data describing global catch, effort, discards, and fishing gear used an
 
 ##### Ocean Health Index (OHI) Data Science Fellow
 
-Collaborated with the OHI team to updated and format data sets necessary to calculate the 2018 OHI global assessment. Through my internship I had to revised and improve 9+ R scripts with OHI methods to ensure the necessary functions and data worked properly.
+Collaborated with the OHI team to update and format data sets necessary to calculate the 2018 OHI global assessment. During my internship, I had to revise and improve 9+ R scripts using OHI methods to ensure the required functions and data worked properly.
 
 <br>
 
@@ -59,4 +59,4 @@ Collaborated with the OHI team to updated and format data sets necessary to calc
 - **MS Environmental Science and Management**, Bren School of Environmental Science & Management, University of California, Santa Barbara (UCSB) 
 
   
-- **BS in Biology with a focus in Ecology and Natural Resources**, Pontificia Universidad Católica de Chile (PUC), Santiago, Chile
+- **BS in Biology with a focus on Ecology and Natural Resources**, Pontificia Universidad Católica de Chile (PUC), Santiago, Chile
