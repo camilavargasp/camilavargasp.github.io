@@ -15,16 +15,16 @@ website:
     right:
       - href: index.qmd
         text: home
-      - href: about.qmd
-        text: about
+      # - href: about.qmd
+      #   text: about
       - text: my work
         menu: 
           - href: teaching.qmd
             text: teaching
           - href: portfolio.qmd
             text: portfolio
-          - href: reflections.qmd
-            text: reflections
+          # - href: reflections.qmd
+          #   text: reflections
           # - href: code-resources.qmd
           # - href: just-because.qmd
       - icon: github

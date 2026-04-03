@@ -30,9 +30,9 @@ I advocate for open and inclusive science, reproducible workflows, and fostering
 
 <br>
 
-I am a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/es-ES/rladies-santa-barbara/) and [EcoDataScience](https://ecodatascience.github.io/). Two local groups that promote diversity and inclusion in the R community and data science practices.
+I am a co-organizer of [R-Ladies Santa Barbara](https://www.meetup.com/es-ES/rladies-santa-barbara/) chapter. A local group that promote diversity and inclusion in the R community and data science practices.
 
-
+<!-- [EcoDataScience](https://ecodatascience.github.io/) -->
 
 
 
