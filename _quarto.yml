@@ -7,26 +7,17 @@ execute:
 
 website:
   title: "Camila Vargas Poulsen"
-  # favicon: images/hex_logos/dndR_hex.png
-  # repo-url: https://github.com/njlyon0/njlyon0.github.io
-  # repo-actions: [issue]
   navbar:
     background: primary
     right:
       - href: index.qmd
         text: home
-      # - href: about.qmd
-      #   text: about
       - text: my work
         menu: 
           - href: teaching.qmd
             text: teaching
           - href: portfolio.qmd
             text: portfolio
-          # - href: reflections.qmd
-          #   text: reflections
-          # - href: code-resources.qmd
-          # - href: just-because.qmd
       - icon: github
         href: https://github.com/camilavargasp/camilavargasp.github.io
         target: _blank
@@ -38,11 +29,10 @@ website:
         
 format:
   html:
-    # page-layout: full
     sidebar: false
     theme: 
       - styles.scss
-    mainfont: Cutive Mono
+    mainfont: "Cutive Mono"
     toc: false
     link-external-newwindow: true
     link-external-icon: false
