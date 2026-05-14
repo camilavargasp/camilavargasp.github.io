@@ -1,6 +1,6 @@
 ---
 about:
-  template: jolla
+  template: trestles
   image: _pics/cvargas_2022.png
   image-width: 18em
   image-shape: round
